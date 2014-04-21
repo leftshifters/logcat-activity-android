@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">logcat-sample</string>
+    <string name="logcat_launcher">logcat-sample log</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Logcat</string>
+
+</resources>
